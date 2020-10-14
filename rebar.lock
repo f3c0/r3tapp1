@@ -1,6 +1,6 @@
 [{<<"app2">>,
   {git,"https://github.com/f3c0/r3tapp2.git",
-       {ref,"eac759e11a631fd10e6595a353357906cd480cd6"}},
+       {ref,"fe60ce65349b4b5946af11e9dfda3a3324a8c172"}},
   0},
  {<<"app3">>,
   {git,"https://github.com/f3c0/r3tapp3.git",
